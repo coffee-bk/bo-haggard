@@ -1,5 +1,7 @@
 name: Azure Static Web Apps CI/CD
 
+skip_app_build: true
+skip_api_build: true
 on:
   push:
     branches:
@@ -8,9 +10,6 @@ on:
     types: [opened, synchronize, reopened, closed]
     branches:
       - main
-
-skip_app_build: true
-skip_api_build: true
 
 jobs:
   build_and_deploy_job:
