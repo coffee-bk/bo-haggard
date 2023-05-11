@@ -45,3 +45,4 @@ jobs:
           action: "close"
           
   skip_app_build: true
+  skip_api_build: true
