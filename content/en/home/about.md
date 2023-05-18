@@ -24,7 +24,6 @@ Excellent leadership, instructional, and relationship building skills; ability t
   <li>Software: Microsoft Exchange 5.5 – Microsoft 365, Microsoft Office 97 – Microsoft 365, Microsoft Office SharePoint Server 2007 – Microsoft 365, Internet Information Services  6 - 10, Symantec Backup Exec System Recovery, Symantec Backup Exec for Windows Servers</li>
   <li>Networking Equipment: Barracuda Load Balancer, F5 Big-IP, Cisco LocalDirector, Cisco Catalyst Family of Switches, Cisco PIX/ASA, Ubiquiti</li>
   <li>Virtualization Technologies: Microsoft Virtual Server 2005 R2, Microsoft Hyper-V, Microsoft Azure, VMware ESX/ESXi</li>
-  <li>Virtualization Technologies: Microsoft Virtual Server 2005 R2, Microsoft Hyper-V, Microsoft Azure, VMware ESX/ESXi</li>
   <li>Phone Systems (PBX): Toshiba Strata, Lucent Technologies, and Avaya</li>
   <li>Source code management / version control: Azure DevOps Server, Git</li>
 </ul>
