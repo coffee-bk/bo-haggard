@@ -4,7 +4,7 @@ weight: 9
 ---
 <div align=left>
 <p>
-<b>Freelance</b>&nbsp&nbsp&nbsp&nbspMarch 2020 —present day<br>
+<b>Freelance</b>&nbsp&nbsp&nbsp&nbspMarch 2020 — present day<br>
 Eugene, Oregon
 
 Provide IT support and services for various small to medium sized companies throughout central Texas and California. Technologies supported included various phone systems, network infrastructure, desktop and server operating systems, and various productivity suites. Vertical markets served include legal, energy, and land development.
