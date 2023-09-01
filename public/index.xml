@@ -6,41 +6,5 @@
     <description>Recent content on Bo Haggard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://bohaggard.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gig Wordpress</title>
-      <link>http://bohaggard.com/projects/gig-wordpress/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://bohaggard.com/projects/gig-wordpress/</guid>
-      <description>Gig Website Project to develop site that showcases robust CI/CD functionality for demo purposes. Solution will be cost effective while still demonstrating Enterprise grade capability. Solution will be containerized via Docker and deployed leveraging Azure DevOps and Azure Container Apps.</description>
-    </item>
-    
-    <item>
-      <title>Professional&#39;s Website</title>
-      <link>http://bohaggard.com/projects/professional-website/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://bohaggard.com/projects/professional-website/</guid>
-      <description>Professional&amp;rsquo;s Website Project to develop simple and cost effective solution for generating a website for presentation of professional profile.</description>
-    </item>
-    
-    <item>
-      <title>Company Wordpress</title>
-      <link>http://bohaggard.com/projects/company-wordpress/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://bohaggard.com/projects/company-wordpress/</guid>
-      <description>Project to design and develop wordpress infra that is durable, resilient, scalable and able to conform to various compliance intiatives.</description>
-    </item>
-    
-    <item>
-      <title>Personal Wordpress</title>
-      <link>http://bohaggard.com/projects/personal-wordpress/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://bohaggard.com/projects/personal-wordpress/</guid>
-      <description>Project to design and develop simple wordpress site for personal blogging</description>
-    </item>
-    
   </channel>
 </rss>
