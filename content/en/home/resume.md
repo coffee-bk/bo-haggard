@@ -34,7 +34,7 @@ Design, deploy, and maintain entire enterprise infrastructure for the Lenos SaaS
 Provide IT support and services for various small to medium sized companies throughout Texas, Oklahoma, and California. Technologies supported included various phone systems, network infrastructure, desktop and server operating systems, and various productivity suites. Vertical markets served include legal, energy, and land development.
 </p>
 <p>
-<b>Director Of Information Technology</b>&nbsp&nbsp&nbsp&nbspNovember 1999 — August 2005<br>
+<b>Director of Information Technology</b>&nbsp&nbsp&nbsp&nbspNovember 1999 — August 2005<br>
 <i>Medallion Homes</i> San Antonio, Texas
 
 Design, manage, and implement enterprise network infrastructure spanning 36 sites throughout the San Antonio area. Manage technology training for all major divisions of the organization to include Operations, Sales, and Executive staff. Head of research and development of emerging technologies for the Medallion enterprise resource planner. 
