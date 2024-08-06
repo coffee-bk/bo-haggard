@@ -5,7 +5,7 @@ weight: 9
 <div align=left>
 <p>
 <b>Principal</b>&nbsp&nbsp&nbsp&nbspMarch 2020 — present day<br>
-<i>Cascadian Technologist</i> San Antonio, Texas
+<i>Mighty Acorn LLC</i> San Antonio, Texas
 
 Provide IT support and services for various small to medium sized companies throughout central Texas and California. Technologies supported included various phone systems, network infrastructure, desktop and server operating systems, and various productivity suites. Vertical markets served include legal, energy, and land development.
 </p>
@@ -37,7 +37,7 @@ Provide IT support and services for various small to medium sized companies thro
 <b>Director Of Information Technology</b>&nbsp&nbsp&nbsp&nbspNovember 1999 — August 2005<br>
 <i>Medallion Homes</i> San Antonio, Texas
 
-Design, manage, and implement enterprise network infrastructure spanning 36 sites throughout the San Antonio area. Manage technology training for all major divisions of the organization to include Operations, Sales, and Executive staffs. Head of research and development of emerging technologies for the Medallion enterprise resource planner. 
+Design, manage, and implement enterprise network infrastructure spanning 36 sites throughout the San Antonio area. Manage technology training for all major divisions of the organization to include Operations, Sales, and Executive staff. Head of research and development of emerging technologies for the Medallion enterprise resource planner. 
 </p>
 <p>
 <b>Production Technician</b>&nbsp&nbsp&nbsp&nbspSeptember 1997 — May 1998<br>

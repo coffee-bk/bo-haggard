@@ -18,7 +18,7 @@ Excellent leadership, instructional, and relationship building skills; ability t
 ### TECHNOLOGIES
 
 <ul>
-  <li>Cloud Technologies: Mastery of Microsoft Azure, proficient with Amazon Web Services and Google Cloup Platform</li>
+  <li>Cloud Technologies: Mastery of Microsoft Azure, proficient with Amazon Web Services and Google Cloud Platform</li>
   <li>Operating Systems: Mastery of Microsoft Windows NT family of server and workstation operating systems, proficient with various Linux distributions to include Red Hat, Ubuntu, and SUSE</li>
   <li>Databases: Microsoft SQL Server 6 – Azure SQL</li>
   <li>Software: Microsoft Exchange 5.5 – Microsoft 365, Microsoft Office 97 – Microsoft 365, Microsoft Office SharePoint Server 2007 – Microsoft 365, Internet Information Services  6 - 10, Symantec Backup Exec System Recovery, Symantec Backup Exec for Windows Servers</li>
